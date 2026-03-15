@@ -1,0 +1,3 @@
+ticker,quantidade,preco_medio_local,currency,broker,empresa,setor,analista,status_tese
+EXEMPLO3,100,10.50,BRL,BTG,Empresa Exemplo,Setor Exemplo,,
+NVDA,5,120.00,USD,Nomad,NVIDIA,Tech,,

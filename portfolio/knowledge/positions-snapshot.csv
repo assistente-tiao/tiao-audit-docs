@@ -1,0 +1,22 @@
+ticker,empresa,analista,setor,quantidade,preco_medio,moeda,proventos,valor_base,status_tese
+INBR32,Inter & Co,Financeiro & Crédito,Banco Digital / Fintech,1905,32.67,BRL,1623.73,62236.35,Pendente
+ENGI4,Energisa,Utilities & Concessões,Distribuição elétrica,5890,8.51,BRL,5354.85,50113.90,Pendente
+EQTL3,Equatorial,Utilities & Concessões,Distribuição + Saneamento,942,34.39,BRL,1529.79,32395.38,Pendente
+ALOS3,Aliansce Sonae,Consumo Varejo & Imobiliário,Shopping Centers,1200,22.90,BRL,1970.82,27480.00,Pendente
+SUZB3,Suzano,Energia & Materiais,Celulose,600,53.35,BRL,699.11,32010.00,Pendente
+KLBN4,Klabin,Energia & Materiais,Papel & Embalagens,5383,3.73,BRL,1973.48,20078.59,Pendente
+BRAV3,Brava Energia,Energia & Materiais,Petróleo E&P,1000,15.86,BRL,0,15860.00,Pendente
+PLPL3,Plano & Plano,Consumo Varejo & Imobiliário,Incorporação MCMV,1200,13.73,BRL,0,16476.00,Pendente
+RAPT4,Empresas Randon,Consumo Varejo & Imobiliário,Autopeças & Implementos,2500,6.02,BRL,0,15050.00,Pendente
+GMAT3,Grupo Mateus,Consumo Varejo & Imobiliário,Atacarejo,2600,4.91,BRL,0,12766.00,Pendente
+TSM,TSMC,Tecnologia & Semicondutores,Foundry,10.150,344.77,USD,0,3499.42,Pendente
+NVDA,Nvidia,Tecnologia & Semicondutores,GPU / AI,15.969,187.90,USD,0,3000.58,Pendente
+ASML,ASML,Tecnologia & Semicondutores,Litografia EUV,1.526,1439.24,USD,0,2196.68,Pendente
+MELI,MercadoLibre,Tecnologia & Semicondutores,E-commerce / Fintech LatAm,0.640,2193.50,USD,0,1403.84,Pendente
+GOOGL,Alphabet,Tecnologia & Semicondutores,Search / Cloud / AI,3.901,319.75,USD,0,1247.34,Pendente
+SNPS,Synopsys,Tecnologia & Semicondutores,EDA / Design Automation,5.732,454.80,USD,0,2607.91,Pendente
+MU,Micron,Tecnologia & Semicondutores,DRAM / NAND / HBM,2.064,434.23,USD,0,896.65,Pendente
+EWY,iShares MSCI South Korea ETF,Tecnologia & Semicondutores,ETF Coreia,15.577,131.28,USD,0,2044.94,Pendente
+FIDC-MICROCREDITO,FIDC Microcrédito,Financeiro & Crédito,Crédito Estruturado,1,9867.52,BRL,0,14157.63,Pendente
+FMP-FGTS-ELETROBRAS,FMP FGTS Eletrobrás,Utilities & Concessões,Geração & Transmissão,1,18643.29,BRL,0,36009.46,Pendente
+CAIXA,Caixa,CIO,Liquidez,1,1148.99,BRL,0,1148.99,N/A

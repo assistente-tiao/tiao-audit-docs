@@ -1,0 +1,7 @@
+# safety
+**/.DS_Store
+**/*.log
+**/node_modules/
+**/.mypy_cache/
+**/.pytest_cache/
+**/.openclaw/

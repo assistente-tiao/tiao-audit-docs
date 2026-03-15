@@ -1,0 +1,30 @@
+scope,subject,owner,priority,primary_triggers,secondary_triggers,escalation,expected_action
+position,INBR32,Financeiro & Crédito,P1,"T1 earnings/credit update; T6 concentration/funding","T2 macro rates; T5 thesis break",decide,re-underwrite sizing and credit sensitivity
+position,ENGI4,Utilities & Concessões,P1,"T1 earnings; T2 rates shock; T3 regulatory event","T4 valuation move",decide,reassess utility thesis and sizing
+position,EQTL3,Utilities & Concessões,P1,"T1 earnings; T2 rates shock; T3 regulatory event","T4 valuation move",decide,reassess utility/sanitation optionality and sizing
+position,ALOS3,Consumo Varejo & Imobiliário,P1,"T1 earnings/FFO; T2 rates shock","T4 valuation move; T5 thesis break",decide,reassess consumer-real-estate thesis and income support
+position,SUZB3,Energia & Materiais,P1,"T1 earnings; T2 FX/pulp shock","T4 valuation move; T5 thesis break",decide,reconcile macro consistency and pulp-cycle view
+position,KLBN4,Energia & Materiais,P2,"T1 earnings; T2 FX/pulp shock","T6 overlap with SUZB3; T4 valuation move",review,reassess overlap versus portfolio need
+position,BRAV3,Energia & Materiais,P2,"T1 earnings/production update; T2 oil/FX shock","T5 thesis break; T4 valuation move",review,re-underwrite commodity beta and leverage
+position,PLPL3,Consumo Varejo & Imobiliário,P2,"T1 earnings/sales update; T2 rates/housing shock","T3 housing policy event",review,reassess MCMV and execution thesis
+position,RAPT4,Consumo Varejo & Imobiliário,P2,"T1 earnings/order book; T2 agro/cycle shock","T4 valuation move; T5 thesis break",review,reassess industrial/agro split
+position,GMAT3,Consumo Varejo & Imobiliário,P2,"T1 earnings/SSS; T5 execution slip","T4 valuation move",review,reassess margins and competitive position
+position,TSM,Tecnologia & Semicondutores,P2,"T1 earnings/foundry commentary; T3 geopolitics/export controls","T2 semi-cycle shock",review,reassess strategic semi exposure
+position,NVDA,Tecnologia & Semicondutores,P2,"T1 earnings; T2 hyperscaler capex shift","T4 multiple compression",review,reassess AI expectations and sizing discipline
+position,ASML,Tecnologia & Semicondutores,P2,"T1 earnings/backlog; T3 export restriction","T2 semi-cycle shock",review,reassess equipment-cycle durability
+position,MELI,Tecnologia & Semicondutores,P3,"T1 earnings/TPV; T5 execution","T4 valuation move",observe,monitor quality and optionality
+position,GOOGL,Tecnologia & Semicondutores,P3,"T1 earnings/cloud-AI; T2 AI capex regime","T4 valuation move",observe,monitor monetization versus spend
+position,SNPS,Tecnologia & Semicondutores,P3,"T1 earnings/backlog; T3 EDA/export rule change","T4 valuation move",observe,monitor niche-quality thesis
+position,MU,Tecnologia & Semicondutores,P3,"T1 earnings/pricing; T2 memory-cycle shock","T4 valuation move",review,reassess cyclicality and role in basket
+position,EWY,Tecnologia & Semicondutores,P3,"T2 Korea macro/FX shock; T4 price move","T6 funding decision",review,reassess whether ETF still earns a slot
+position,FIDC-MICROCREDITO,Financeiro & Crédito,P1,"T1 monthly fund update; T5 credit deterioration","T6 liquidity/funding event",decide,reassess credit quality and liquidity role
+position,FMP-FGTS-ELETROBRAS,Utilities & Concessões,P1,"T1 fund update; T3 wrapper/rule change","T2 utility-rate shock",decide,reassess wrapper-specific constraints and utility thesis
+position,CAIXA,CIO,P1,"T6 funding decision; T2 macro regime shift","T4 opportunity set change",decide,allocate or preserve strategically
+factor,Selic / BR rates,Macro,P1,"T2 rates shock",,decide,reassess all domestic rate-sensitive positions
+factor,USD/BRL,Macro,P1,"T2 FX shock",,decide,reassess SUZB3/KLBN4/BRAV3 and all USD assets
+factor,Pulp cycle,Macro,P1,"T2 commodity shock",,review,reassess SUZB3 and KLBN4 together
+factor,Oil market,Macro,P2,"T2 commodity shock",,review,reassess BRAV3 and energy readthrough
+factor,AI / semis capex,Macro,P2,"T2 thematic regime shift",,review,reassess TSM/NVDA/ASML/SNPS/MU basket
+factor,Domestic credit cycle,Macro,P1,"T2 credit regime shift",,decide,reassess INBR32 and FIDC
+factor,Agro / machinery demand,Macro,P2,"T2 sector demand shift",,review,reassess RAPT4 and interior-demand readthrough
+factor,Portfolio concentration,Macro,P1,"T6 concentration/funding event",,decide,reassess sizing and diversification

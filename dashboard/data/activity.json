@@ -1,0 +1,525 @@
+[
+  {
+    "id": "mmmuar6vx74w",
+    "actor": "bot",
+    "action": "task_status_check",
+    "details": {
+      "taskId": "t04",
+      "title": "T04 — Create project-level CLAUDE.md derived dev rules",
+      "status": "failed",
+      "message": "Sub-agent spawn blocked: gateway closed (1008) unauthorized on local loopback."
+    },
+    "timestamp": "2026-03-12T02:19:27.655Z"
+  },
+  {
+    "id": "mmmuar6vm43c",
+    "actor": "bot",
+    "action": "task_timeout",
+    "details": {
+      "taskId": "t04",
+      "title": "T04 — Create project-level CLAUDE.md derived dev rules",
+      "message": "Sub-agent spawn blocked: gateway closed (1008) unauthorized on local loopback."
+    },
+    "timestamp": "2026-03-12T02:19:27.655Z"
+  },
+  {
+    "id": "mmru1glq83k8",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1glp343f",
+      "title": "P31 — Create live position panel for active portfolio management"
+    },
+    "timestamp": "2026-03-15T14:11:04.910Z"
+  },
+  {
+    "id": "mmru1gltskx0",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1gltr87q",
+      "title": "P32 — Define monitoring triggers by position and factor"
+    },
+    "timestamp": "2026-03-15T14:11:04.913Z"
+  },
+  {
+    "id": "mmru1glvwkdb",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1glv6lg0",
+      "title": "P33 — Define operating cadence for active management"
+    },
+    "timestamp": "2026-03-15T14:11:04.915Z"
+  },
+  {
+    "id": "mmru1glxv2gs",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1glwfbgi",
+      "title": "P34 — Create CIO decision log and action workflow"
+    },
+    "timestamp": "2026-03-15T14:11:04.917Z"
+  },
+  {
+    "id": "mmru1pa00xkp",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1pa0z8vn",
+      "title": "P31.1 — Audit current portfolio control files and identify fields for live panel"
+    },
+    "timestamp": "2026-03-15T14:11:16.152Z"
+  },
+  {
+    "id": "mmru1pa3ptkr",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1pa3gk42",
+      "title": "P31.2 — Design live position panel schema and status vocabulary"
+    },
+    "timestamp": "2026-03-15T14:11:16.155Z"
+  },
+  {
+    "id": "mmru1pa6ab39",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1pa6p71v",
+      "title": "P31.3 — Create live position panel files and populate with current portfolio"
+    },
+    "timestamp": "2026-03-15T14:11:16.158Z"
+  },
+  {
+    "id": "mmru1pa9gknr",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru1pa9djpc",
+      "title": "P31.4 — Reconcile references so the live panel becomes the operational source"
+    },
+    "timestamp": "2026-03-15T14:11:16.161Z"
+  },
+  {
+    "id": "mmru26l96nuv",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1pa0z8vn",
+      "title": "P31.1 — Audit current portfolio control files and identify fields for live panel",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:11:38.589Z"
+  },
+  {
+    "id": "mmru2v6hd8zh",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1pa3gk42",
+      "title": "P31.2 — Design live position panel schema and status vocabulary",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:12:10.457Z"
+  },
+  {
+    "id": "mmru42jn6tnm",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1pa6p71v",
+      "title": "P31.3 — Create live position panel files and populate with current portfolio",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:13:06.659Z"
+  },
+  {
+    "id": "mmru4l88c4ma",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1pa9djpc",
+      "title": "P31.4 — Reconcile references so the live panel becomes the operational source",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:13:30.872Z"
+  },
+  {
+    "id": "mmru4l8bw4zy",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1glp343f",
+      "title": "P31 — Create live position panel for active portfolio management",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:13:30.875Z"
+  },
+  {
+    "id": "mmru50fkimc7",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru50fkth35",
+      "title": "P32.1 — Audit current portfolio for trigger design needs"
+    },
+    "timestamp": "2026-03-15T14:13:50.576Z"
+  },
+  {
+    "id": "mmru50fn1tn0",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru50fm3p56",
+      "title": "P32.2 — Define trigger taxonomy for positions and portfolio factors"
+    },
+    "timestamp": "2026-03-15T14:13:50.579Z"
+  },
+  {
+    "id": "mmru50fp9qh1",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru50fp0k7u",
+      "title": "P32.3 — Build trigger matrix for all current positions and top-level factors"
+    },
+    "timestamp": "2026-03-15T14:13:50.581Z"
+  },
+  {
+    "id": "mmru50frbqug",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru50fr3ken",
+      "title": "P32.4 — Integrate trigger references into operational docs"
+    },
+    "timestamp": "2026-03-15T14:13:50.583Z"
+  },
+  {
+    "id": "mmru5fqqxak2",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru50fkth35",
+      "title": "P32.1 — Audit current portfolio for trigger design needs",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:14:10.418Z"
+  },
+  {
+    "id": "mmru5x8cc8o8",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru50fm3p56",
+      "title": "P32.2 — Define trigger taxonomy for positions and portfolio factors",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:14:33.084Z"
+  },
+  {
+    "id": "mmru6rxjjd73",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru50fp0k7u",
+      "title": "P32.3 — Build trigger matrix for all current positions and top-level factors",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:15:12.871Z"
+  },
+  {
+    "id": "mmru77dqfsrt",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru50fr3ken",
+      "title": "P32.4 — Integrate trigger references into operational docs",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:15:32.894Z"
+  },
+  {
+    "id": "mmru77dtfhmr",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1gltr87q",
+      "title": "P32 — Define monitoring triggers by position and factor",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:15:32.897Z"
+  },
+  {
+    "id": "mmru7ek5v85h",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru7ek5cd94",
+      "title": "P33.1 — Audit current routines and gaps for active-management cadence"
+    },
+    "timestamp": "2026-03-15T14:15:42.197Z"
+  },
+  {
+    "id": "mmru7ek8m4s5",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru7ek8vvj7",
+      "title": "P33.2 — Define CIO operating cadence across daily, weekly, monthly, and event-driven loops"
+    },
+    "timestamp": "2026-03-15T14:15:42.200Z"
+  },
+  {
+    "id": "mmru7ekaw587",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru7ekaes9x",
+      "title": "P33.3 — Create operational playbooks for each cadence layer"
+    },
+    "timestamp": "2026-03-15T14:15:42.202Z"
+  },
+  {
+    "id": "mmru7ekccd6q",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru7ekcpzzv",
+      "title": "P33.4 — Integrate cadence into committee protocols and ops index"
+    },
+    "timestamp": "2026-03-15T14:15:42.204Z"
+  },
+  {
+    "id": "mmru7u78mkrj",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru7ek5cd94",
+      "title": "P33.1 — Audit current routines and gaps for active-management cadence",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:16:02.468Z"
+  },
+  {
+    "id": "mmru8det6svd",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru7ek8vvj7",
+      "title": "P33.2 — Define CIO operating cadence across daily, weekly, monthly, and event-driven loops",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:16:27.365Z"
+  },
+  {
+    "id": "mmru8h32hc70",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru7ekaes9x",
+      "title": "P33.3 — Create operational playbooks for each cadence layer",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:16:32.126Z"
+  },
+  {
+    "id": "mmru8yx4ymrg",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru7ekcpzzv",
+      "title": "P33.4 — Integrate cadence into committee protocols and ops index",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:16:55.240Z"
+  },
+  {
+    "id": "mmru8yx6qrc6",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1glv6lg0",
+      "title": "P33 — Define operating cadence for active management",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:16:55.242Z"
+  },
+  {
+    "id": "mmru95pflf68",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru95pf93mt",
+      "title": "P34.1 — Audit decision-traceability gaps in current portfolio workflow"
+    },
+    "timestamp": "2026-03-15T14:17:04.035Z"
+  },
+  {
+    "id": "mmru95ph611q",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru95phhkps",
+      "title": "P34.2 — Define CIO decision-log schema and portfolio action states"
+    },
+    "timestamp": "2026-03-15T14:17:04.037Z"
+  },
+  {
+    "id": "mmru95pkf4tk",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru95pj5f58",
+      "title": "P34.3 — Create CIO decision log files and seed the first entries"
+    },
+    "timestamp": "2026-03-15T14:17:04.040Z"
+  },
+  {
+    "id": "mmru95pmlsgn",
+    "actor": "user",
+    "action": "task_created",
+    "details": {
+      "taskId": "mmru95pldpcd",
+      "title": "P34.4 — Integrate decision workflow into live panel and committee operating system"
+    },
+    "timestamp": "2026-03-15T14:17:04.042Z"
+  },
+  {
+    "id": "mmru9lo0a7m9",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru95pf93mt",
+      "title": "P34.1 — Audit decision-traceability gaps in current portfolio workflow",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:17:24.720Z"
+  },
+  {
+    "id": "mmrua8qm3aw4",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru95phhkps",
+      "title": "P34.2 — Define CIO decision-log schema and portfolio action states",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:17:54.622Z"
+  },
+  {
+    "id": "mmruacl9dozv",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru95pj5f58",
+      "title": "P34.3 — Create CIO decision log files and seed the first entries",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:17:59.613Z"
+  },
+  {
+    "id": "mmrub2upghkm",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru95pldpcd",
+      "title": "P34.4 — Integrate decision workflow into live panel and committee operating system",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:18:33.649Z"
+  },
+  {
+    "id": "mmrub2uscblk",
+    "actor": "user",
+    "action": "task_updated",
+    "details": {
+      "taskId": "mmru1glwfbgi",
+      "title": "P34 — Create CIO decision log and action workflow",
+      "changes": [
+        "status",
+        "result"
+      ],
+      "newStatus": "done"
+    },
+    "timestamp": "2026-03-15T14:18:33.652Z"
+  }
+]
